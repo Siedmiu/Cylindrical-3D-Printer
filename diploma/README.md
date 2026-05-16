@@ -4,6 +4,8 @@ Contains the diploma thesis for this project with useful background on the desig
 
 Written to university specification under strict time constraints, expect some filler sections.
 
+The plots and figures will not load in github preview!
+
 ## Files
 
 | File | Description |
